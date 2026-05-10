@@ -8,7 +8,7 @@ Welcome! This repository features a collection of verified bug reports and techn
 - **Verified Success:** Successfully completed Academy cycles for both Mobile and Desktop environments.
 
 ## 🛠 Tools & Methodology
-- **Technical Analysis:** Proficient in using Chrome DevTools (Network tab, Console) 
+- **Technical Analysis:** Proficient in using Chrome DevTools (Network tab, Console) to analyze API responses 
 - **Mobile Debugging:** Experience with Android Logcat and testing on real devices (Samsung Galaxy A53 5G).
 - **Documentation:** Authoring professional bug reports with clear reproduction steps and technical impact analysis.
 
@@ -16,7 +16,7 @@ Welcome! This repository features a collection of verified bug reports and techn
 
 1. **[User Data Isolation Leak]** - A high-severity privacy issue where saved locations persisted across different authenticated accounts.
 2. **[E-commerce Calculation Error]** - A functional bug involving incorrect subtotal calculations in the shopping basket.
-
+3. **[Map Authentication Failure]** - A technical API defect preventing critical map rendering on automotive inventory pages.
 
 ---
 *Note: Sensitive information and private client data in these reports have been redacted or generalized for portfolio display purposes.*
